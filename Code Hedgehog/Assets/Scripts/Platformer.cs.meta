@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5e109cd0604b422488128f4c4e0fd342
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isGroundedChecker: {instanceID: 0}
+  - Ezh: {instanceID: 0}
+  - jump: {fileID: 8300000, guid: bfb7b66b1c8b24345a3fad88b17c4d5a, type: 3}
+  - move: {fileID: 8300000, guid: 05f7bd3de8f995741a3dc1572bafeaea, type: 3}
+  - doublejump: {fileID: 8300000, guid: 220d04be974a71742855e45bccf55587, type: 3}
+  - fall: {fileID: 8300000, guid: f5648b8c854f7694691b3c6d4ac8d1ca, type: 3}
+  - fir: {fileID: 8300000, guid: 90add556b83f5214a877236e72c5b0b3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

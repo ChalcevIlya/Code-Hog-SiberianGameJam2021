@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 240e767ae738cac4a9fb872ea120aa12
+  - enabled: 1
+    path: Assets/Scenes/FirstLevel.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FirstCutscene.unity
+    guid: 5153c021830ccaf48bac7cb53f3eada8
+  - enabled: 1
+    path: Assets/Scenes/Loading1.unity
+    guid: 0fad2bc8303cc0742af2d7034e416f6a
+  - enabled: 1
+    path: Assets/Scenes/TrainMoving.unity
+    guid: adf8d18d0c6b9ca428ad977540c1692f
+  - enabled: 1
+    path: Assets/Scenes/Train.unity
+    guid: eb44c5e8f9e85c64aa2c32c537680cbb
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2.unity
+    guid: d278f762168ef2a4089a1b690cbb07e1
+  - enabled: 1
+    path: Assets/Scenes/City.unity
+    guid: bf31d932c877f9c428d2d361f965f2bd
+  - enabled: 1
+    path: Assets/Scenes/MenuGlitch.unity
+    guid: 2d5ca28e4d2c28e479b0bf9567a93673
+  - enabled: 1
+    path: Assets/Scenes/CityGlitch.unity
+    guid: a800eb3130f1b2047a41a13174d90e68
+  - enabled: 1
+    path: Assets/Scenes/Bar.unity
+    guid: bf1374ce1d7dc584fb929761e363d8a1
+  - enabled: 1
+    path: Assets/Scenes/Cutscene3.unity
+    guid: 23eaaec015e70a54e834f8a861a9a06f
+  m_configObjects: {}
